@@ -25,5 +25,5 @@
 ### 7. Using jQuery...
 
 * Add a 10px red border around all __IMG__ elements 
-* Fade out all _IMG_ elements
+* Fade out all __IMG__ elements
 * Add a 10px red border around all __IMG__ and fade out the images after 3 seconds
