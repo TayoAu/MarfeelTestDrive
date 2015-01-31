@@ -18,20 +18,23 @@
 * Hide opinion column
 * Make top Ad banner sticky at the bottom
 
-### 3. Javascript
+### 3. DOM Manipulation
 
 * Add a 10px red border around all __IMG__ elements 
 * Fade out all __IMG__ elements
 * Add a 10px red border around all __IMG__ and fade out the images after 3 seconds
 
+### 4. Justify the chosen method used to hide opinion column
 
-### 4. Explain the difference between position static, relative, absolute and fixed
+### 5. Explain the difference between position static, relative, absolute and fixed
 
-### 5. What are data SRCs? When would you use them?
+### 6. What are data SRCs? When would you use them?
 
-### 5. What benefits you get by using a CSS preprocessor?
+### 7. What benefits you get by using a CSS preprocessor?
 
+### 8. Why would you use unit testing?
 
+### 9. How would you accelerate an element by hardware and why?
 
 
 
